@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+#created by Maosong Pei
+
 #python模块:win32com用法:
 #import win32com
 #from win32com.client import Dispatch, constants
